@@ -1,11 +1,12 @@
-nav
-{
+ul{
     background-color: black;
     color: white;
 }
 
-footer
-{
-    background-color: black;
-    color: white;
+nav li{
+    display: inline;
+}
+
+footer li{
+    display: inline;
 }
