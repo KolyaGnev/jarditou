@@ -1,12 +1,13 @@
 ul{
     background-color: black;
     color: white;
+    padding: 20px;
 }
 
 nav li{
     display: inline;
 }
 
-footer li{
-    display: inline;
+heading{
+    font-size: small;
 }
