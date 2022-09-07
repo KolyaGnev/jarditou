@@ -8,10 +8,37 @@ nav li{
     display: inline;
 }
 
-heading{
+article{
     font-size: small;
 }
 
 h1{
     font-size: 250%;
+}
+
+ul li{
+    display: inline;
+}
+
+/* .parent {
+    border: 0px rgba(153, 138, 138, 0.836);
+    display: inline-block;
+}
+
+.box {
+    display: inline-block;
+    background: rgb(113,113,113);
+} */
+
+.center{
+    display: flex;
+}
+
+section{
+    width: 75%;
+}
+
+aside{
+    background: rgb(113,113,113);
+    width: 25%;
 }
