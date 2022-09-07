@@ -42,3 +42,12 @@ aside{
     background: rgb(113,113,113);
     width: 25%;
 }
+
+header{
+    display: flex;
+}
+
+header p{
+    margin: auto;
+    font-size: 200%;
+}
