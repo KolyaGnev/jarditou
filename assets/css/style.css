@@ -51,3 +51,12 @@ header p{
     margin: auto;
     font-size: 200%;
 }
+
+@media screen and (max-width: 768px) {
+    html {
+        font-size: 40px;
+    }
+    aside{
+        display: none;
+    }
+}
