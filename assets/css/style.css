@@ -59,4 +59,10 @@ header p{
     aside{
         display: none;
     }
+    a{
+        display: block;
+    }
+    u{
+        display: block;
+    }
 }
