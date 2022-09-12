@@ -53,7 +53,7 @@ header p{
 }
 
 @media screen and (max-width: 768px) {
-    html {
+    h1 {
         font-size: 40px;
     }
     aside{
