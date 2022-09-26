@@ -7,7 +7,7 @@ if (window.confirm("Etes-vous un homme ?") == true)
    var sex="Monsieur"
 
 }
-window.alert("Bonjour "+sex+" "+reponse1+" "+reponse2+"\n\nBienvenue sur notre site web !")/
+window.alert("Bonjour "+sex+" "+reponse1+" "+reponse2+"\n\nBienvenue sur notre site web !")
 
 
 var a = "100";
@@ -55,7 +55,7 @@ console.log(age)
 console.log(typeof age)
 age = Number(age)
 console.log(age)
-console.log(typeof age)/
+console.log(typeof age)
 
 var nbr1 = window.prompt("Donnez un nombre1") ;
 var op = window.prompt("operateur")
